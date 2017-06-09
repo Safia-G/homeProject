@@ -1,0 +1,47 @@
+body {
+  /*background-image: url(../img/jeremstar.jpg);
+  background-repeat: no-repeat;
+  background-position: right;*/
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  text-align: center;
+  background-color: #FCB01A;
+  left: 0;
+  color: white;
+  padding-top:50px;
+  padding-bottom: 50px;
+}
+.bloc {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.bloc1 {
+  text-align: center;
+  margin-top: 100px;
+}
+.bloc1 input {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+input {
+  text-align: center;
+}
+.bloc2 {
+  text-align: center;
+}
+.bloc2 input {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
